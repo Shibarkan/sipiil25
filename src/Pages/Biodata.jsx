@@ -5,9 +5,9 @@ function Biodata() {
       <p className="text-gray-600 mb-8 text-center max-w-2xl">
         Halaman ini nantinya akan berisi daftar profil mahasiswa Teknik Sipil Angkatan 2025.
       </p>
-      
+     
       <div className="bg-white p-6 rounded-2xl shadow border border-gray-200 w-full max-w-md text-center italic text-gray-400">
-        (Fitur Biodata sedang dalam pengembangan)
+        (BELUM KELAR)
       </div>
     </div>
   );
