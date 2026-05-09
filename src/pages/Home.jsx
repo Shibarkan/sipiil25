@@ -5,7 +5,7 @@ function Home() {
     <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center p-4">
       <div className="text-center bg-white p-10 rounded-3xl shadow-xl max-w-lg w-full border border-gray-100">
         <h1 className="text-3xl md:text-5xl font-extrabold text-blue-900 mb-2">
-          Teknik Sipil '25
+          Teknik Sipil '25 ANJAY
         </h1>
         <h2 className="text-xl font-medium text-gray-600 mb-8">
           Universitas Diponegoro
