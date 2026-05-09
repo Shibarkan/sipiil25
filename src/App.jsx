@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Header from './components/Header.jsx';
 import Footer from './components/Footer.jsx';
-import Home from './Pages/Home.jsx';
+import Home from './pages/Home.jsx';
 import Presensi from './pages/Presensi.jsx';
 import Biodata from './pages/Biodata.jsx';
 
