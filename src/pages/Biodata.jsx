@@ -7,7 +7,7 @@ function Biodata() {
       </p>
      
       <div className="bg-white p-6 rounded-2xl shadow border border-gray-200 w-full max-w-md text-center italic text-gray-400">
-        (BELUM KELAR)
+        (Fitur Biodata sedang dalam pengembangan)
       </div>
     </div>
   );
