@@ -1,9 +1,9 @@
 import { Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Presensi from './pages/Presensi';
-import Biodata from './pages/Biodata';
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
+import Home from './pages/Home.jsx';
+import Presensi from './pages/Presensi.jsx';
+import Biodata from './pages/Biodata.jsx';
 
 function App() {
   return (
